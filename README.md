@@ -1,4 +1,4 @@
-# Lurker_public
+# Lurker
 It is a simple utility Discord bot built using Discord.py library. It performs variety of tasks such as fetching memes from Reddit, providing users with Corona and weather data, English dictionary for non native English speakers, URL shortner and many fun commands for joke, dark joke, roast etc.
 
 **Note -:** To get a list off all commands you can type in **/help**
