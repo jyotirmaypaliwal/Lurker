@@ -27,7 +27,7 @@ It is a simple utility Discord bot built using Discord.py library. It performs v
 
 ## Note 
 **I am no longer maintaing this bot so some features may break.** 
-Looking at my code after so long I can see that I could have done a few things differently in a better way. I am still happy as it was my first experience in building something and provided a good hands on experience.
+Looking at my code after so long I can see that I could have done a few things differently in a better way. I am still happy as it was my first experience in building a Discord bot and provided a good hands on experience.
 
 
 

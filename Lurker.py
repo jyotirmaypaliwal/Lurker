@@ -8,7 +8,7 @@ import requests
 import io
 import aiohttp
 
-
+# Client commands
 client = commands.Bot(command_prefix = "/")
 client.remove_command('help')
 
